@@ -1,0 +1,15 @@
+{
+  "name": "lisa_server",
+  "version": "1.0.0",
+  "description": "Unleashing the full potential of AI with monadlisa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lisa",
+    "server"
+  ],
+  "author": "Sui Gn",
+  "license": "MIT"
+}
