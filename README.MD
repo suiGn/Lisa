@@ -7,7 +7,7 @@ Welcome to Lisa, a cutting-edge AI project that combines the power of cloud comp
 - Hybrid AI system that combines the power of the cloud with the flexibility of P2P technology
 - Personalized AI that is tailored to your individual needs and preferences
 - Scalable AI that can handle a wide range of tasks and workloads
-- Open and inclusive community that encourages participation and contribution
+
 
 ## Getting Started
 
