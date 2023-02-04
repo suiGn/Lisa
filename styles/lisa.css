@@ -1,0 +1,94 @@
+
+  /* Generate Desktop view */
+    @media only screen and (min-width: 768px) {
+        body {
+        background-color:#0d1116;
+        }
+        h1 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+
+        plot {
+          color: rgb(110, 174, 222);
+        }
+        h2 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        h3 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        h4 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        h5 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        h6 {
+        color: whitesmoke;
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        p {
+        color: rgb(203, 203, 203);
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+        a {
+        color: rgb(106, 195, 247);
+        font-family: system-ui;
+        margin-top: 21px;
+        margin-left: 21px;
+        margin-bottom: 21px;
+        margin-right: 21px;
+        }
+
+        li{
+            color: bisque;
+            font-family: system-ui;
+            margin-top: 3px;
+            margin-left: 8px;
+            margin-bottom: 5px;
+            padding-bottom: 3px;
+            margin-right: 8px;
+            list-style: none;
+            border-bottom: 1px solid #232527;
+        };
+    };
+
+    /* Generate Mobile view */
+
+   
+
+
+    
