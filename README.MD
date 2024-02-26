@@ -1,5 +1,7 @@
 # Lisa
 
+Lisa is a GPT digital assistant designed to provide information, facilitate understanding, and assist with tasks within the MonadLisa and neurons.me ecosystem, constantly evolving to better serve and interact.
+
 GPT Training Integration: In the context of GPT training, Lisa can act as a container or interface for specific sets of knowledge or functionalities. This could mean that when Lisa is used in training, it can dynamically access and provide the necessary data from the knowledge files, enhancing the training process with context-specific intelligence.
 
 Standalone Node Module: As a Node module, Lisa can be imported into any Node.js application, providing external applications with access to its methods and, potentially, to the underlying knowledge files. This opens up possibilities for developers to use Lisa's functionalities, including data retrieval, processing, and any other logic you embed within its methods.
