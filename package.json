@@ -1,6 +1,6 @@
 {
   "name": "lisa.gpt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Training Lisa GPT in the neurons.me ecosystem.",
   "main": "index.js",
   "scripts": {
