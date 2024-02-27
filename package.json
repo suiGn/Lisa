@@ -1,5 +1,5 @@
 {
-  "name": "lisa",
+  "name": "lisa.gpt",
   "version": "1.0.2",
   "description": "Training Lisa GPT in the neurons.me ecosystem.",
   "main": "index.js",
